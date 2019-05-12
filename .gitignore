@@ -1,3 +1,6 @@
+*.pyc
+__pycache__
+token.pickle
 password.txt
 org.eclipse.buildship.core.prefs
 
